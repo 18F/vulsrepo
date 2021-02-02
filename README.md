@@ -1,5 +1,7 @@
 # VulsRepo
 
+**NOTE:** This code is only a component for the 10x Dependency Upgrades Project, please visit [the main repo and documentation for more details](https://github.com/18F/10x-dux-vuls-eval/blob/master/README.md#background).
+
 [![license](https://img.shields.io/github/license/ishiDACo/vulsrepo.svg?style=flat-square)](https://github.com/ishiDACo/vulsrepo/blob/master/LICENSE.txt)
 
 VulsRepo is visualized based on the json report output in [Vuls](https://github.com/future-architect/vuls).
